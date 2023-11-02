@@ -1,0 +1,19 @@
+.card {
+    background-color: #bf90c5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 300px;
+    margin: 10%;
+  }
+  
+  .card-titulo {
+    font-size: 24px;
+    color: #333;
+  }
+
+  .card-subtitulo {
+    font-size: 18px;
+    color: #27772a;
+  }
